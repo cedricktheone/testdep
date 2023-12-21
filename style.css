@@ -1,0 +1,25 @@
+table tr td{
+    vertical-align: middle;
+}
+td button{
+    margin: 5px;
+}
+td button i{
+    font-size: 20px;
+
+}
+
+
+.modal-header{
+    background: blue;
+    color: white;
+
+
+}
+
+.modal-body form{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0;
+}
